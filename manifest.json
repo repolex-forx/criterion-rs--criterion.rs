@@ -279,6 +279,288 @@
       ],
       "ast": [
         "aggregate/ast/7f0d745532e3c7b2e11bbf9de9b911f91790d3b1/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7f0d745532e3c7b2e11bbf9de9b911f91790d3b1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "anes",
+          "ecosystem": "CARGO",
+          "version": "0.1.4",
+          "githubOrg": "qwandor",
+          "githubRepo": "anes-rs",
+          "githubCommit": "76d5a723a80a069ee7393e251b51bb48a1c607cd",
+          "githubTag": "v0.1.4",
+          "githubUrl": "https://github.com/qwandor/anes-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion-plot",
+          "ecosystem": "CARGO",
+          "version": "0.8.2",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "itertools",
+          "ecosystem": "CARGO",
+          "version": "0.13",
+          "githubOrg": "rust-itertools",
+          "githubRepo": "itertools",
+          "githubUrl": "https://github.com/rust-itertools/itertools",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "page_size",
+          "ecosystem": "CARGO",
+          "version": "0.6",
+          "githubOrg": "Elzair",
+          "githubRepo": "page_size_rs",
+          "githubUrl": "https://github.com/Elzair/page_size_rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.100",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "b6a77c4413f902523646be0d7f5520631df53ff6",
+          "githubTag": "v1.0.100",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0.100",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubCommit": "d2fce19685bf0e3d493a9d785665137654c79e6d",
+          "githubTag": "v1.0.100",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "ciborium",
+          "ecosystem": "CARGO",
+          "version": "0.2.0",
+          "githubOrg": "enarx",
+          "githubRepo": "ciborium",
+          "githubCommit": "e8512abee2f126ae60923be4362c175703550894",
+          "githubTag": "v0.2.0",
+          "githubUrl": "https://github.com/enarx/ciborium",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.5",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "walkdir",
+          "ecosystem": "CARGO",
+          "version": "2.3",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "walkdir",
+          "githubUrl": "https://github.com/BurntSushi/walkdir",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tinytemplate",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "bheisler",
+          "githubRepo": "TinyTemplate",
+          "githubUrl": "https://github.com/bheisler/TinyTemplate",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "cast",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "japaric",
+          "githubRepo": "cast.rs",
+          "githubUrl": "https://github.com/japaric/cast.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "num-traits",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "rust-num",
+          "githubRepo": "num-traits",
+          "githubUrl": "https://github.com/rust-num/num-traits",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "regex",
+          "ecosystem": "CARGO",
+          "version": "1.5.1",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubCommit": "374c1680dcf79aeceb3bd0da82eb583cf65c7ba7",
+          "githubTag": "1.5.1",
+          "githubUrl": "https://github.com/rust-lang/regex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rayon",
+          "ecosystem": "CARGO",
+          "version": "1.3",
+          "githubOrg": "rayon-rs",
+          "githubRepo": "rayon",
+          "githubUrl": "https://github.com/rayon-rs/rayon",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "csv",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "rust-csv",
+          "githubUrl": "https://github.com/BurntSushi/rust-csv",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "futures",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "smol",
+          "ecosystem": "CARGO",
+          "version": "2.0",
+          "githubOrg": "smol-rs",
+          "githubRepo": "smol",
+          "githubUrl": "https://github.com/smol-rs/smol",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tokio",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubUrl": "https://github.com/tokio-rs/tokio",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "plotters",
+          "ecosystem": "CARGO",
+          "version": "^0.3.2",
+          "githubOrg": "plotters-rs",
+          "githubRepo": "plotters",
+          "githubUrl": "https://github.com/plotters-rs/plotters",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3.5.0",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubCommit": "c773849f1de482ed2033c0ff86afd21f48980452",
+          "githubTag": "v3.5.0",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "approx",
+          "ecosystem": "CARGO",
+          "version": "0.5.0",
+          "githubOrg": "brendanzab",
+          "githubRepo": "approx",
+          "githubCommit": "11f6fdac5a32b9367bd8e6cd780ed539e4e9e142",
+          "githubTag": "v0.5.0",
+          "githubUrl": "https://github.com/brendanzab/approx",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "plotters-svg",
+          "ecosystem": "CARGO",
+          "version": "0.3.7",
+          "githubOrg": "plotters-rs",
+          "githubRepo": "plotters",
+          "githubCommit": "cb7791f6814024d85aa6f9968e73051a4b295bf0",
+          "githubTag": "v0.3.7",
+          "githubUrl": "https://github.com/plotters-rs/plotters.git",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/plotters-svg-0.3.7/src/svg.rs"
+        },
+        {
+          "packageName": "clap_builder",
+          "ecosystem": "CARGO",
+          "version": "4.5.50",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubCommit": "c7c761f988684ad97c8b2c521b05cf7f8192b3eb",
+          "githubTag": "v4.5.50",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap_builder-4.5.50/src/builder/arg.rs"
+        },
+        {
+          "packageName": "futures-executor",
+          "ecosystem": "CARGO",
+          "version": "0.3.31",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "1e052816b09890925cfdfcbe8d390cdaae5e4c38",
+          "githubTag": "0.3.31",
+          "githubUrl": "https://github.com/rust-lang/futures-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/local_pool.rs"
+        },
+        {
+          "packageName": "alloca",
+          "ecosystem": "CARGO",
+          "version": "0.4.0",
+          "githubOrg": "playXE",
+          "githubRepo": "alloca-rs",
+          "githubUrl": "https://github.com/playXE/alloca-rs",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloca-0.4.0/src/lib.rs"
+        },
+        {
+          "packageName": "rand_core",
+          "ecosystem": "CARGO",
+          "version": "0.6.4",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand_core",
+          "githubCommit": "89a1336b934c68ddce548127c6f8afd910b35a18",
+          "githubTag": "v0.6.4",
+          "githubUrl": "https://github.com/rust-random/rand_core",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.6.4/src/lib.rs"
+        }
       ]
     }
   ],
