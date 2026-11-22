@@ -1,0 +1,11 @@
+{
+  "org": "criterion-rs",
+  "repo": "criterion.rs",
+  "versions": [
+    {
+      "commit": "7f0d745532e3c7b2e11bbf9de9b911f91790d3b1",
+      "tag": "criterion-v0.8.2",
+      "parsed_at": "2026-11-22T06:35:46.439515+00:00"
+    }
+  ]
+}
